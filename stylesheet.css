@@ -1,0 +1,57 @@
+.imgArea img {
+    width: 112px;
+}
+
+.firstBox{
+    max-width: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding-bottom: 10PX;
+    padding-top: 5px;
+}
+
+.contain {
+    text-align: center;
+}
+
+.containArea h4 {
+    color: green;   
+}
+
+.HeaderArea{
+    background-color: greenyellow;
+    padding: 1px 0px;
+}
+
+.HeaderArea p {
+    margin-left: 10px;
+}
+
+.containArea {
+    text-align: start;
+    padding: 5px 20px;
+    
+}
+
+.containArea button {
+    border-radius: 10px;
+    background-color: orange;
+    width: 100%;
+    padding: 10px 4px;
+}
+
+.upperArea {
+    display: flex;
+    padding-top: 10px;
+}
+
+.firstBox {
+    margin-right: 10px;
+}
+
+.lowerSide {
+    display: flex;
+    margin-top: 10px;
+}
+
+    
